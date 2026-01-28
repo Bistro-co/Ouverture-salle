@@ -1,0 +1,38 @@
+{
+  "config": {
+    "telephone": "33789745946",
+    "nomBar": "Rigatoni Corner",
+    "titrePage": "Check-list ouverture salle"
+  },
+  "checklist": [
+    {
+      "categorie": "Ouverture Service Intérieur (Hiver semaine)",
+      "items": [
+        "Sortir environ 60 boules de pain",
+        "Récupérer Kir / digestif frigo RDC (si 1/2 plateaux)",
+        "Allumer machine à verres",
+        "Prendre mini entrées (3 plateaux RDC, 3 plateaux étage frigo pass plat, mini entrées de la veille dans frigo double porte étage)",
+        "Faire plateaux pour frigo RDC : 2 Kir pêche, 1 sans alcool, 1 petits digestifs",
+        "Faire plateaux pour frigo double étage : 2 Kir pêche, 1 sans alcool, 1 petits digestifs",
+        "Mettre 1 pipette vinaigrette à l'étage et 1 au RDC",
+        "Vérifier si la salle est OK (chaises/tables/ménagères...)",
+        "Remplir bac à couverts d'eau (étage/RDC)",
+        "Nettoyer cartes",
+        "Mettre en place lavettes (étage/RDC) + pshit-pshit remplis",
+        "Remplir parmesan",
+        "Mettre cartes en place dans ménagères",
+        "Faire panneaux Formules déjeuner",
+        "Mettre un papier en caisse avec sug/PDJ + quantités",
+        "Vérifier frigos enfants",
+        "Allumer chauffage et lumières",
+        "Mettre du bon son :)",
+        "Faire carcasse (mise en place)",
+        "Ouvrir la porte à 12h pile",
+        "Vérifier la caisse (pour les responsables)",
+        "Vérifier les résas et les commentaires",
+        "Vérifier Google Doc si groupes"
+      ]
+    }
+  ]
+}
+
